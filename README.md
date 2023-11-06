@@ -16,7 +16,7 @@ ArrayList, LinkedList, HashMap, HastSet farklarını ve kullanış amaçlarını
 
 「SORU 3」
 
-Aşağıdaki bir otele ait Otel Rezervasyonuna ait UML diyagramı verilmişƟr. İlgili sınıf, alt sınıflar, metotlar oluşan Java projesini yazınız. 
+Aşağıdaki bir otele ait Otel Rezervasyonuna ait UML diyagramı verilmiştir. İlgili sınıf, alt sınıflar, metotlar oluşan Java projesini yazınız. 
 ![image](https://github.com/oomerty/JAVA-IBP-HAFTA5/assets/59279876/59598ef2-3b5d-4cd5-9515-90e214c87a5f)
 
 「SORU 4 - Main.java」
