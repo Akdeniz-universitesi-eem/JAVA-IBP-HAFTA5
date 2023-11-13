@@ -2,7 +2,7 @@
 
 **Akdeniz Üniversitesi - Mühendislik Fakültesi - Elektrik Elektronik Mühendisliği**
 
-**İleri Bilgisayar Programlama (2023 - 2024) 4. Hafta Ödev Soruları**
+**İleri Bilgisayar Programlama (2023 - 2024) 5. Hafta Ödev Soruları**
 
 Ömer Mert ERYİĞİT - 20210855024
 
